@@ -1,4 +1,4 @@
-Hi there, I'm NooR 👋
+<h3>Hi there, I'm NooR 👋</h3>
 I'm a Writer, Entrepreneur and Passionate Programmer!!
 🌱 I’m currently learning everything 🤣
 👯 I’m looking to collaborate with other content creators
