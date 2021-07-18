@@ -1,5 +1,5 @@
 <h3>Hi there, I'm NooR 👋</h3>
-<h1><u>I'm a Writer, Entrepreneur and Passionate Programmer!!</u></h1>
+<h2>I'm a Writer, Entrepreneur and Passionate Programmer!!</h2>
 🌱 I’m currently learning everything 🤣
 👯 I’m looking to collaborate with other content creators
 🥅 2021 Goals: Contribute more to Open Source projects
