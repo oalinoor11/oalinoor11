@@ -1,5 +1,5 @@
 
-Hi there, I'm WonderKid - aka Shihab Uddin 👋
+Hi there, I'm NooR 👋
 I'm a Lover, Thinker, Leader and Passionate Programmer!!
 🌱 I’m currently learning everything 🤣
 👯 I’m looking to collaborate with other content creators
