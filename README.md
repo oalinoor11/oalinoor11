@@ -1,6 +1,6 @@
 <h3>Hi there, I'm NooR 👋</h3>
 
-<h2>I'm a Writer, Entrepreneur and Passionate Programmer!!</h2>
+<h2>I'm a Programmer, Entrepreneur and Passionate Writer!!</h2>
 
 <UL>
   <LI>🌱 I’m currently learning everything 🤣</LI>
