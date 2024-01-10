@@ -5,7 +5,7 @@
 <UL>
   <LI>🌱 I’m currently learning everything 🤣</LI>
   <LI>👯 I’m looking to collaborate with other content creators</LI>
-  <LI>🥅 2023 Goals: Contribute more to Open Source projects</LI>
+  <LI>🥅 2024 Goals: Contribute more to Open Source projects</LI>
   <LI>⚡ Fun fact: I love to create and design new things everyday.</LI>
 </UL>
 
