@@ -11,26 +11,26 @@
 
 ---
 
-### Connect with me or Hire Me
+### Connect with Me
 
 <p>
   <a href="https://carboncodes.net" target="_blank">
-    <img alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+    <img src="https://img.shields.io/badge/Website-carboncodes.net-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
   <a href="https://linkedin.com/in/oalinoor11" target="_blank">
-    <img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    <img src="https://img.shields.io/badge/LinkedIn-oalinoor11-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/oalinoor11" target="_blank">
-    <img alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+    <img src="https://img.shields.io/badge/Instagram-oalinoor11-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://facebook.com/shahed.ofp" target="_blank">
-    <img alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+    <img src="https://img.shields.io/badge/Facebook-shahed.ofp-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://fiverr.com/shahedoalinoor" target="_blank">
-    <img alt="Fiverr" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fiverr.svg" />
+    <img src="https://img.shields.io/badge/Fiverr-shahedoalinoor-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
   </a>
   <a href="https://www.upwork.com/freelancers/oalinoor11" target="_blank">
-    <img alt="Upwork" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/upwork.svg" />
+    <img src="https://img.shields.io/badge/Upwork-oalinoor11-6fda44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
   </a>
 </p>
 
@@ -39,35 +39,14 @@
 ### 🛠️ Languages and Tools
 
 <p>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png" alt="Flutter" width="26px" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/dart/dart.png" alt="Dart" width="26px" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/android/android.png" alt="Android" width="26px" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/ios/ios.png" alt="iOS" width="26px" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" width="26px" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML5" width="26px" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS3" width="26px" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/sass/sass.png" alt="SASS" width="26px" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="26px" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" width="26px" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" width="26px" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" alt="SQL" width="26px" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL" width="26px" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=oalinoor11&show_icons=true&theme=radical" alt="Noor's GitHub stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oalinoor11&theme=radical" alt="Noor's GitHub streak" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oalinoor11&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
@@ -92,4 +71,3 @@
 ---
 
 > "Build fast, fail faster, learn fastest. 🚀"
-
