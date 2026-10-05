@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm NooR 👋</h1>
-<h3 align="center">Flutter developer building polished Android & iOS apps</h3>
+<h3 align="center">Full-stack developer building polished Android & iOS apps with Flutter and Laravel</h3>
 
 <p align="center">
-  5+ years shipping cross-platform mobile apps — from idea to Play Store and App Store.
+  5+ years shipping full-stack products — Flutter apps, Laravel backends, and everything in between, from idea to Play Store and App Store.
 </p>
 
 <p align="center">
@@ -16,14 +16,14 @@
 
 ## 👨‍💻 About me
 
-- 📱 I build production Flutter apps for Android and iOS, backed by Laravel APIs and Firebase.
+- 💻 I'm a full-stack developer: Flutter apps for Android and iOS, plus the Laravel APIs, web flows and integrations behind them.
 - 🧩 I enjoy turning ideas into working products: clipboard sync, healthcare tools, community apps and more.
 - 🤝 Open to collaboration, freelance work and open-source contributions.
 - 🎯 2026 goal: contribute more to open-source projects.
 
 ## 🛠️ Tech stack
 
-**Mobile**  
+**Mobile (frontend)**  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
